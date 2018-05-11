@@ -1,6 +1,6 @@
 <?php 
 
-		require 'app/group.php';
+		require 'group.php';
 		
 		function tokenFGT($tokencreate){
 
